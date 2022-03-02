@@ -1,0 +1,155 @@
+{
+  "main": {
+    "name": "Lluís Garcia",
+    "occupation": "Full Stack Developer",
+    "description": "Currently working as a ",
+    "jobTitle": "Lead Mentor",
+    "employer": "Let's Coder - Code Academy",
+    "jobDescription": "help students not to bang their head on the table while trying to learn to code",
+    "image": "profilepic.jpg",
+    "bio": "I was born in Sallent, a small town near Barcelona, and that's why I love the countryside. I play football since I was a little kid, it surely taught me sportsmanship, cooperation and the importance of teamplay. I've been travelling the world while working, and my goal is to take my job with me wherever I want.",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "llugarciapons@gmail.com",
+    "phone": "+34 670 839 076",
+    "address": {
+      "street": "Sallent",
+      "city": "Barcelona",
+      "state": "Spain",
+      "zip": "08650"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/lluisgarciapons/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/lluiisgarcia/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/lluisgarciapons",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Short write-up of my skills",
+    "education": [
+      {
+        "school": "UBIQUM Code Academy",
+        "degree": "JAVA Full-Stack Web Developer",
+        "graduated": "July 2018",
+        "description": "800h Full-time, immersive 'learn by doing' course focusing on HTML, CSS, JavaScript, JSON and Java with Spring and SpringBoot, simulating real-life projects. Also used Vue, Bootstrap, JQuery, Spring, Git & GitHub, Firebase."
+      }
+    ],
+    "work": [
+      {
+        "company": "Let's Coder",
+        "title": "Lead Mentor · Freelance",
+        "years": "December 2020 - January 2022",
+        "description": "Manage the mentors' team and the different course modalities (Full Time Online, Part Time Online and On Site). Content creation and product improvement, shaping the Program Plan, organization of skills by project, adapting the timelines of each project and guiding new developers along the path of code. Mentoring a Full Stack course: HTML, CSS, Javascript and MERN."
+      },
+      {
+        "company": "Rhappsody Technologies",
+        "title": "Front-End Dev (REACT) and Web Layout · Freelance",
+        "years": "October 2020 - February 2021",
+        "description": "Web layout with CSS and Material UI components. Review, correct and create front-end functionalities with REACT framework."
+      },
+      {
+        "company": "Ubiqum Code Academy",
+        "title": "Full-Stack mentor",
+        "years": "August 2018 - April 2020",
+        "description": "Full-time web development mentor, helping over 200 students train their web development abilities and eventually finding a job.\nI started teaching the 5 month long front-end & JAVA course; I helped create the new 3 month long MERN course and teach it afterwards.\nWorking with HTML, CSS, JS, Vue, JAVA, MERN stack."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "image": "git.jpeg",
+        "description": "I use Git for all my projects, and save them on GitHub. I have used Git for version control in a small team, but I use it the most for personal projects."
+      },
+      {
+        "name": "React JS",
+        "image": "react.jpeg",
+        "description": "React is my most used framework, as I was teaching it at the bootcamps. I find it even more intersting with the addition of hooks."
+      },
+      {
+        "name": "Java",
+        "image": "java.jpeg",
+        "description": "Java was the first programming language I learned in order to create an online game. Used with Spring and Spring Boot."
+      },
+      {
+        "name": "Frontend Triforce",
+        "image": "triforce1.jpeg",
+        "description": "I consider these three a must if you are into web development. These are the basics anyone should know before jumping into any framework."
+      },
+      {
+        "name": "Boostrap",
+        "image": "bootstrap.jpeg",
+        "description": "Bootstrap is the framework I use the most when I want to style the webpage. Depending on the frontend framwork I use others like Material UI or Vuetify."
+      },
+      {
+        "name": "Vue JS",
+        "image": "vue.png",
+        "description": "I learned Vue out of curiosity, and I ended up adding it to the bootcamp program. I used Vuetify for the style and Vuex as the SST."
+      },
+      {
+        "name": "Node JS",
+        "image": "node.jpeg",
+        "description": "Node + Express are my go-to server side languages. Used almost every time I want to create the backend part of a project."
+      },
+      {
+        "name": "Mongo DB",
+        "image": "mongo.jpeg",
+        "description": "Mongo is the databese I used the most for how well it works with React and Node, creating the famous MERN stack."
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Canadian Wanderlust",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "canadian-wanderlust.jpg",
+        "url": "https://www.canadianwanderlust.com"
+      },
+      {
+        "title": "Fury Fighting Gear",
+        "category": "(offline now) A fighting gear company I started",
+        "image": "fury-fighting-gear.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Original Thai Food",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "original-thai-food.jpg",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title": "Resume Website",
+        "category": "A React based resume website template",
+        "image": "resume-website.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Smirkspace",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "smirkspace.jpg",
+        "url": "http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "En Lluis contrasta su profesionalidad con su juventud. Siempre tiene todo controlado en su cabeza y siempre está siete pasos por delante tuyo. Con un código limpio y funcional, se adapta a cualquier adversidad que surja en cualquier proyecto.\n\nTiene constantemente un ojo puesto en las nuevas tecnologías y no se conforma con que algo funcione si se sabe que se puede mejorar.\n\nUn privilegio como compañero y un placer como amigo.",
+        "user": "Raúl Matínez - CEO @ Let It Byte"
+      }
+    ]
+  }
+}
